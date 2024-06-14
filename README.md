@@ -2,7 +2,7 @@
 
 # zip-ts
 
-TypeScript Implementation of Python zip() Function for Parallel Iteration
+TypeScript Implementation of Python ``zip()` Function
 
 [![tests](https://github.com/AshGw/zip-ts/actions/workflows/test.yml/badge.svg)](https://github.com/AshGw/zip-ts/actions/workflows/test.yml)
 [![@latest](https://img.shields.io/npm/v/zip-ts.svg)](https://www.npmjs.com/package/zip-ts)
